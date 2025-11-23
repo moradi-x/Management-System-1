@@ -1,0 +1,225 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  box-sizing: none;
+  text-decoration: none;
+}
+.div1,
+.div3 {
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-left: 600px;
+  margin-top: 100px;
+  border: 1px solid black;
+  display: inline-block;
+  padding: 20px;
+  border-radius: 7px;
+}
+.submit {
+  padding: 3px;
+  border-radius: 3px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.ahref {
+  color: black;
+  font-size: 15px;
+  border: 1px solid rgb(0, 0, 0);
+  border-radius: 2px;
+  padding: 3px;
+}
+.h1 {
+  margin-top: 120px;
+  margin-left: 600px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 35px;
+}
+.h2 {
+  margin-top: 120px;
+  margin-left: 600px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 35px;
+}
+.h3 {
+  margin-top: 80px;
+  margin-left: 520px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 35px;
+}
+.h4 {
+  margin-top: 50px;
+  margin-left: 630px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 35px;
+}
+.h5 {
+  /* margin-top: 5px; */
+  /* margin-left: 630px; */
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  color: rgb(77, 155, 117);
+}
+.image {
+  font-size: 12px;
+}
+.b0 {
+  font-size: 11px;
+  display: block;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.div5 {
+  border-top: 2px solid blue;
+  border-bottom: 2px solid blue;
+  margin-top: 80px;
+  padding: 12px;
+}
+.div6 {
+  margin-left: 500px;
+  display: block;
+  padding: 12px;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+}
+.p1,
+.p2,
+.p3,
+.p4,
+.p5 {
+  padding: 3px;
+  font-size: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.b1,
+.b2,
+.b3,
+.b4,
+.b5 {
+  font-size: 17px;
+  display: block;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-bottom: 3px;
+}
+.div7 {
+  width: 60px;
+  height: 60px;
+  border-radius: 17px;
+  display: inline-flex;
+}
+.a2 {
+  color: black;
+  border: 2 solid rgb(0, 0, 0);
+  background-color: rgb(93, 139, 156);
+  font-size: 16px;
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.a3 {
+  color: black;
+  border: 2 solid rgb(0, 0, 0);
+  background-color: rgb(188, 53, 53);
+  font-size: 16px;
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  padding-right: 20px;
+  padding-left: 20px;
+  margin-left: 50px;
+}
+.a4 {
+  color: black;
+  border: 2 solid rgb(0, 0, 0);
+  background-color: rgb(184, 78, 78);
+  font-size: 16px;
+  border-radius: 5px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  display: inline-block;
+  padding: 7px;
+  margin-left: 800px;
+  margin-top: 30px;
+}
+.p6 {
+  font-size: 10px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding: 4px;
+}
+.h1_admin {
+  margin-top: 70px;
+  text-align: center;
+}
+.div11 {
+  margin-top: 70px;
+  text-align: center;
+}
+.serch_s {
+  margin-top: 70px;
+  font-size: 25px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.serch_a {
+  margin-top: 40px;
+  border-radius: 15px;
+  padding: 5px;
+}
+.serch_q {
+  padding: 4px;
+  border-radius: 10px;
+  background-color: rgb(167, 209, 205);
+  border: 2px solid black;
+  margin-bottom: 70px;
+}
+
+.show-users {
+  display: inline-block;
+  padding: 10px 18px;
+  background: #4a6cf7;
+  color: #fff;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.hl {
+  text-align: center;
+  margin-top: 70px;
+  margin-bottom: 150px;
+}
+
+.tablee {
+  border: 2px solid rgb(51, 114, 73);
+  text-align: center;
+  margin-left: 550px;
+  margin-top: 100px;
+  /* margin: auto; */
+}
+.image_5 {
+  width: 50px;
+  height: 50px;
+  border-radius: 15px;
+}
+th {
+  border: 1px solid black;
+  padding: 2px;
+}
+tr {
+  border: 1px solid black;
+  padding: 2px;
+}
+.a10 {
+  color: black;
+  background-color: rgb(188, 93, 93);
+  padding: 4px;
+  border-radius: 7px;
+}
+.a11 {
+  color: black;
+  background-color: rgb(223, 168, 85);
+  padding: 4px;
+  border-radius: 7px;
+}
