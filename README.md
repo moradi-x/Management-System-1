@@ -91,7 +91,7 @@ Database will be created automatically
 or
 
 If you don't want to use XAMPP/WAMP, you can run the project using PHP's built-in development server:Then open in your browser:
-http://localhost:8000/LogIn.php
+``http://localhost:8000/LogIn.php``
 
 
 ```
